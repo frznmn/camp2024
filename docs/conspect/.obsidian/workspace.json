@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1494e6c008151597",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Оглавление курса.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -75,7 +87,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -183,14 +195,14 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "eec90964ff177f1e",
+  "active": "1494e6c008151597",
   "lastOpenFiles": [
     "Напряжение - ток - сопротивление.md",
     "Резистор.md",
     "Оглавление курса.md",
+    "Без названия.canvas",
     "Закон Ома.md",
     "PDF/Schlaepfer_E_,_Oskay_W_Open_Circuits_The_Inner_Beauty_of_Electronic.pdf",
-    "Без названия.canvas",
     "Welcome.md",
     "pic",
     "PDF"
