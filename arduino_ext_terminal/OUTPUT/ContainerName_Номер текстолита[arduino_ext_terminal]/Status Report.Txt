@@ -1,0 +1,10 @@
+Output: Design Rules Check
+Type  : DRC
+From  : PCB Document [arduino_ext_terminal.PcbDoc]
+   Generated File[arduino_ext_terminal_2024-07-03_03-41.html]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 3:41:09 On 03.07.2024

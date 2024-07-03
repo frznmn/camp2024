@@ -1,0 +1,10 @@
+DRC Rules Export File for PCB: F:\239\camp2024\arduino_ext_terminal\arduino_ext_terminal.PcbDoc
+RuleKind=Clearance|RuleName=GND_POLY|Scope=Board|Minimum=15.75
+RuleKind=MinimumAnnularRing|RuleName=min_pad_ar_std|Scope=Board|Minimum=7.87
+RuleKind=MinimumAnnularRing|RuleName=min_via_ar_std|Scope=Board|Minimum=5.91
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=solder_mask_expansion_std|Scope=Board|Minimum=1.97
+RuleKind=Width|RuleName=width_18um_std|Scope=Board|Minimum=4.92
+RuleKind=Clearance|RuleName=clearance_inner_18um_std|Scope=Board|Minimum=4.92
+RuleKind=Clearance|RuleName=clearance_outer_18um_std|Scope=Board|Minimum=4.92
+RuleKind=Clearance|RuleName=clearance_poly_to_diff|Scope=Board|Minimum=4.92

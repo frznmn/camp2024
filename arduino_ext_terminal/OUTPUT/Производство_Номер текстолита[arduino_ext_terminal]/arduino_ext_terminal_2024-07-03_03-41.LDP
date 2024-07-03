@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: F:\239\camp2024\arduino_ext_terminal\arduino_ext_terminal.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=arduino_ext_terminal_2024-07-03_03-41-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=arduino_ext_terminal_2024-07-03_03-41-slotholes.txt|DrillLayers=gtl,gbl

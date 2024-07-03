@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: arduino_ext_terminal.PcbDoc   03.07.2024  3:41:01
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : arduino_ext_terminal_2024-07-03_03-41-RoundHoles.TXT
+ASCII SlotHoles File : arduino_ext_terminal_2024-07-03_03-41-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             155       PTH        636.82mm (25.07inch)
+T2      0.6mm (24mil)                                             Round             6         PTH        78.06mm (3.07inch)
+T3      0.6mm (24mil)                                             Slot              4         PTH        37.24mm (1.47inch)
+T4      0.762mm (30mil)                                           Round             2         PTH        2.00mm (0.08inch)
+T5      0.9mm (35mil)                                             Round             6         PTH        15.84mm (0.62inch)
+T6      1mm (39mil)                                               Round             15        PTH        211.53mm (8.33inch)
+T7      1mm (39mil)                                               Slot              2         PTH        28.49mm (1.12inch)
+T8      3.2mm (126mil)                                            Round             6         PTH        207.80mm (8.18inch)
+T9      0.65mm (26mil)                                            Round             2         NPTH       5.78mm (0.23inch)
+T10     0.7mm (28mil)                                             Round             4         NPTH       17.25mm (0.68inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              202
+
+Total Processing Time (hh:mm:ss) : 00:00:00
