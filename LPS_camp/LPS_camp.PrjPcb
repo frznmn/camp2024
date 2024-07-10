@@ -82,6 +82,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NEUKCEMD
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for LPS_camp\Design Rule Check - LPS.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=document_code
 Value=Э3
