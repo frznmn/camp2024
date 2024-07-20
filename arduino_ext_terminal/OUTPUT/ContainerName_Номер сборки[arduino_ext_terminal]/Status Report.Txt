@@ -1,0 +1,10 @@
+Output: Список закупок
+Type  : BOM
+From  : Variant [[No Variations]] of Project [arduino_ext_terminal.PrjPcb]
+   Generated File[Список закупок_[arduino_ext_terminal]_2024-07-17(15-18).xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 15:18:17 On 17.07.2024
