@@ -1,0 +1,156 @@
+Protel Design System Design Rule Check
+PCB File : F:\239\camp2024\LPS_camp\LPS.PcbDoc
+Date     : 10.07.2024
+Time     : 4:58:32
+
+Processing Rule : Clearance Constraint (Gap=0.4mm) (OnTopLayer OR OnBottomLayer),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (NOT (OnTopLayer Or OnBottomLayer)),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (InPolygonClass('FILL')),(InAnyDifferentialPair)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.2mm) (Max=10mm) (Preferred=0.2mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=7.8mm) (Conductor Width=4mm) (Air Gap=0.5mm) (Entries=4) (Disabled)((AsMM(PadXSize_AllLayers)<=8.01) or (AsMM(PadYSize_AllLayers)<=8.01))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=8.3mm) (Conductor Width=4.25mm) (Air Gap=0.5mm) (Entries=4) (Disabled)((AsMM(PadXSize_AllLayers)<=8.51) or (AsMM(PadYSize_AllLayers)<=8.51))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=7.3mm) (Conductor Width=3.75mm) (Air Gap=0.5mm) (Entries=4) (Disabled)((AsMM(PadXSize_AllLayers)<=7.51) or (AsMM(PadYSize_AllLayers)<=7.51))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=6.3mm) (Conductor Width=3.25mm) (Air Gap=0.5mm) (Entries=4) (Disabled)((AsMM(PadXSize_AllLayers)<=6.51) or (AsMM(PadYSize_AllLayers)<=6.51))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=6.8mm) (Conductor Width=3.5mm) (Air Gap=0.5mm) (Entries=4) (Disabled)((AsMM(PadXSize_AllLayers)<=7.01) or (AsMM(PadYSize_AllLayers)<=7.01))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.5mm) (Conductor Width=0.2mm) (Air Gap=0.2mm) (Entries=4) (Disabled)(All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.5mm) (Conductor Width=0.2mm) (Air Gap=0.2mm) (Entries=4) (Disabled)(All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=9.8mm) (Conductor Width=5mm) (Air Gap=0.5mm) (Entries=4) (Disabled)((AsMM(PadXSize_AllLayers)<=10.01) or (AsMM(PadYSize_AllLayers)<=10.01))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=8.8mm) (Conductor Width=4.5mm) (Air Gap=0.5mm) (Entries=4) (Disabled)((AsMM(PadXSize_AllLayers)<=9.01) or (AsMM(PadYSize_AllLayers)<=9.01))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=9.3mm) (Conductor Width=4.75mm) (Air Gap=0.5mm) (Entries=4) (Disabled)((AsMM(PadXSize_AllLayers)<=9.51) or (AsMM(PadYSize_AllLayers)<=9.51))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=5.8mm) (Conductor Width=3mm) (Air Gap=0.5mm) (Entries=4) (Disabled)((AsMM(PadXSize_AllLayers)<=6.01) or (AsMM(PadYSize_AllLayers)<=6.01))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=1.1mm) (Conductor Width=0.65mm) (Air Gap=0.3mm) (Entries=4) (Disabled)((AsMM(PadXSize_AllLayers)<=1.31) or (AsMM(PadYSize_AllLayers)<=1.31))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.8mm) (Conductor Width=0.5mm) (Air Gap=0.3mm) (Entries=4) (Disabled)((AsMM(PadXSize_AllLayers)<=1.01) or (AsMM(PadYSize_AllLayers)<=1.01))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=1.6mm) (Conductor Width=0.9mm) (Air Gap=0.3mm) (Entries=4) (Disabled)((AsMM(PadXSize_AllLayers)<=1.81) or (AsMM(PadYSize_AllLayers)<=1.81))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=1.4mm) (Conductor Width=0.8mm) (Air Gap=0.3mm) (Entries=4) (Disabled)((AsMM(PadXSize_AllLayers)<=1.61) or (AsMM(PadYSize_AllLayers)<=1.61))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.7mm) (Conductor Width=0.4mm) (Air Gap=0.3mm) (Entries=4) (Disabled)((AsMM(PadXSize_AllLayers)<=0.801) or (AsMM(PadYSize_AllLayers)<=0.801))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.2mm) (Conductor Width=0.2mm) (Air Gap=0.3mm) (Entries=4) (Disabled)((AsMM(PadXSize_AllLayers)<=0.401) or (AsMM(PadYSize_AllLayers)<=0.401))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.2mm) (Conductor Width=0.2mm) (Air Gap=0.2mm) (Entries=4) (Disabled)((AsMM(PadXSize_AllLayers)<=0.301) or (AsMM(PadYSize_AllLayers)<=0.301))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.6mm) (Conductor Width=0.35mm) (Air Gap=0.3mm) (Entries=4) (Disabled)((AsMM(PadXSize_AllLayers)<=0.701) or (AsMM(PadYSize_AllLayers)<=0.701))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.2mm) (Conductor Width=0.3mm) (Air Gap=0.3mm) (Entries=4) (Disabled)((AsMM(PadXSize_AllLayers)<=0.601) or (AsMM(PadYSize_AllLayers)<=0.601))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=1.8mm) (Conductor Width=1mm) (Air Gap=0.3mm) (Entries=4) (Disabled)((AsMM(PadXSize_AllLayers)<=2.01) or (AsMM(PadYSize_AllLayers)<=2.01))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=4.8mm) (Conductor Width=2.5mm) (Air Gap=0.4mm) (Entries=4) (Disabled)((AsMM(PadXSize_AllLayers)<=5.01) or (AsMM(PadYSize_AllLayers)<=5.01))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=5.3mm) (Conductor Width=2.75mm) (Air Gap=0.4mm) (Entries=4) (Disabled)((AsMM(PadXSize_AllLayers)<=5.51) or (AsMM(PadYSize_AllLayers)<=5.51))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=4.3mm) (Conductor Width=2.25mm) (Air Gap=0.4mm) (Entries=4) (Disabled)((AsMM(PadXSize_AllLayers)<=4.51) or (AsMM(PadYSize_AllLayers)<=4.51))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=3.8mm) (Conductor Width=2mm) (Air Gap=0.4mm) (Entries=4) (Disabled)((AsMM(PadXSize_AllLayers)<=4.01) or (AsMM(PadYSize_AllLayers)<=4.01))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=3.3mm) (Conductor Width=1.75mm) (Air Gap=0.4mm) (Entries=4) (Disabled)((AsMM(PadXSize_AllLayers)<=3.51) or (AsMM(PadYSize_AllLayers)<=3.51))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=2.3mm) (Conductor Width=1.25mm) (Air Gap=0.3mm) (Entries=4) (Disabled)((AsMM(PadXSize_AllLayers)<=2.51) or (AsMM(PadYSize_AllLayers)<=2.51))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=2.1mm) (Conductor Width=1.15mm) (Air Gap=0.3mm) (Entries=4) (Disabled)((AsMM(PadXSize_AllLayers)<=2.31) or (AsMM(PadYSize_AllLayers)<=2.31))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=2.8mm) (Conductor Width=1.5mm) (Air Gap=0.3mm) (Entries=4) (Disabled)((AsMM(PadXSize_AllLayers)<=3.01) or (AsMM(PadYSize_AllLayers)<=3.01))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=2.5mm) (Conductor Width=1.35mm) (Air Gap=0.3mm) (Entries=4) (Disabled)((AsMM(PadXSize_AllLayers)<=2.71) or (AsMM(PadYSize_AllLayers)<=2.71))
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.15mm) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.2mm) (All)
+Rule Violations :0
+
+Processing Rule : Acute Angle Constraint (Minimum=35.000) (OnCopper)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.6mm) (Max=5.9mm) (IsPad)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.3mm) (Max=5.9mm) (IsVia)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.2mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.15mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.15mm) (Disabled)(IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.15mm) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) (NOT (OnLayer('Bottom Overlay') OR OnLayer('Top Overlay')))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:01
